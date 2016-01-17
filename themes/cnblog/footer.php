@@ -9,7 +9,7 @@
         <div class="col-xs-12 text-center">
             &copy; <?php echo date('Y'); ?> <a href="<?php $this->options->siteUrl(); ?>"><?php $this->options->title(); ?></a>.
             <?php _e('由 <a href="http://www.typecho.org" target="_blank">Typecho</a> 强力驱动'); ?>.
-            Themed <a href="https://github.com/shrekuu/typecho-bootstrap-theme" target="_blank">Tcnblog </a> edit by <a href="https://github.com/shrekuu/typecho-bootstrap-theme" target="_blank">LawrenceChi</a>
+            Themed <a href="https://github.com/xidiandaily/typecho-themes-plugins.git" target="_blank">Tcnblog </a> edit by <a href="http://blog.chiyl.info/index.php/start-page.html" target="_blank">LawrenceChi</a>
         </div>
     </div>
 </footer><!-- end #footer -->
