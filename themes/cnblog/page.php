@@ -1,7 +1,7 @@
 <?php if (!defined('__TYPECHO_ROOT_DIR__')) exit; ?>
 <?php $this->need('header.php'); ?>
 
-<div class="col-xs-12 col-md-9" id="main" role="main">
+<div class="col-xs-12 col-md-10" id="main" role="main">
 
     <div class="breadcrumb">
         <li><a href="<?php $this->options->siteUrl(); ?>">首页</a></li>
