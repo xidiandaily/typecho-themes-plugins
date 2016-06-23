@@ -16,4 +16,14 @@
 
 <?php $this->footer(); ?>
 </body>
+
+<script>
+    $(function() {
+        //增强table的展示效果
+        $("table",".post-content").addClass("table-condensed");
+        $("table",".post-content").addClass("table-hover");
+        $("table",".post-content").addClass("table-bordered");
+        $("table",".post-content").addClass("table-striped");
+    });
+</script>
 </html>
