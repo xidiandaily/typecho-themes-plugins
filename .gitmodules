@@ -1,3 +1,6 @@
 [submodule "pkm"]
 	path = pkm
 	url = git@github.com:xidiandaily/pkm.git
+[submodule "plugins/typecho-plugin-Parsedown"]
+	path = plugins/typecho-plugin-Parsedown
+	url = https://github.com/kokororin/typecho-plugin-Parsedown.git
